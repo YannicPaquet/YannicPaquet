@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannic</h1>
-<h3 align="center">A project managed with a knack for cyber-security!</h3>
+<h3 align="center">A project manager with a passion for automation and cyber-security!</h3>
 
 - 🔭 I’m currently working on [Octogone](https://octogone.ai)
 
