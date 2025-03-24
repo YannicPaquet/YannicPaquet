@@ -1,9 +1,5 @@
 # Hi 👋, I'm Yannic
-### A CPO with a passion for automation and cyber-security!
-
-- 🔭 I’m currently working for [Octogone](https://octogone.ai)
-- 📝 I post my projects on **https://ypaquet.com**
-- 👯 I’m looking to collaborate on **any type of automation projects**
+### A Project Manager with a passion for automation and cyber-security!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
